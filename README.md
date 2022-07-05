@@ -1,4 +1,6 @@
 # MGMT promoter methylation prediction
+---------------------------------------
+
 # 1) Create patches
 # 2) Run through U-Net
 # 3) Track Accuracy
